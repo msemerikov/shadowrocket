@@ -1,0 +1,16 @@
+# NAME: Proxy
+# AUTHOR: Mikhail Semerikov
+# REPO: https://github.com/msemerikov/shadowrocket
+# UPDATED: 2023-12-17 10:21:00
+DOMAIN-SUFFIX,vkusnoitochka.ru,DIRECT
+DOMAIN-SUFFIX,yandex.net,DIRECT
+DOMAIN-SUFFIX,gosuslugi.ru,DIRECT
+DOMAIN-SUFFIX,megafon.ru,DIRECT
+DOMAIN-SUFFIX,sso.ya.ru,DIRECT
+DOMAIN-SUFFIX,kinopoisk.ru,DIRECT
+DOMAIN-SUFFIX,hd.kinopoisk.ru,DIRECT
+DOMAIN-SUFFIX,sso.kinopoisk.ru,DIRECT
+DOMAIN-SUFFIX,api.ott.kinopoisk.ru,DIRECT
+DOMAIN-SUFFIX,graphql.kinopoisk.ru,DIRECT
+DOMAIN-SUFFIX,payment-widget.plus.kinopoisk.ru,DIRECT
+DOMAIN-SUFFIX,duolingo.com,DIRECT
