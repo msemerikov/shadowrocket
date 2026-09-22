@@ -3,7 +3,7 @@
 ###################################
 ### Global values
 ###################################
-VERSION_MANAGER='1.4.3'
+VERSION_MANAGER='1.4.1'
 VERSION=v2.9.4
 
 DIR_REVERSE_PROXY="/usr/local/reverse_proxy/"
